@@ -1,0 +1,4 @@
+src/*.o
+src/dhcp_filter
+src/*.jar
+__pycache__/
